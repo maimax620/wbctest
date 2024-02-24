@@ -78,7 +78,7 @@ img {
     background-position: center top;
 }
 #home {
-    background-image: url(../images/big-bg.jpeg.jpeg);
+    background-image: url(../images/big-bg.jpeg);
     min-height: 100vh;
 }
 #home .page-title {
@@ -307,7 +307,7 @@ aside p {
 /* menu---------------------------------------------- */
 
 #menu {
-    background-image: url(../images/menu.bd.png);
+    background-image: url(https://arisa0930.github.io/wbctest/images/menu.bd.png);
     min-height: 100vh;
 }
 .menu-content {
