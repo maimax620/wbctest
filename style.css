@@ -78,7 +78,7 @@ img {
     background-position: center top;
 }
 #home {
-    background-image: url(../images/big-bg.jpeg);
+    background-image: url(./images/big-bg.jpeg);
     min-height: 100vh;
 }
 #home .page-title {
@@ -89,7 +89,7 @@ img {
 /*NEWS------------------------------------------------
 */
 #news {
-    background-image: url(../images/news.big.png);
+    background-image: url(./images/news.big.png);
     height: 270px;
     margin-bottom: 40px;
 }
